@@ -10,4 +10,6 @@ This project performs customer segmentation using clustering algorithms on a mal
 - DBSCAN
 
 # 📄 License
-This project is licensed under the [MIT License](https://github.com/hamidrezaxe/Mall-Customers-Clustering/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/hamidrezaesh/Mall-Customers-Clustering/blob/main/LICENSE).
+
+Made by [Hamidreza](https://github.com/hamidrezaesh)
